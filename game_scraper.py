@@ -5,8 +5,12 @@ import pandas as pd
 from urllib.parse import urljoin
 import re
 import json
+import logging
 
 from helper_functions import get_soup
+
+# Set up logging
+logging.basicConfig(level=logging.INFO)
 
 class MatchScraper:
     """
@@ -38,9 +42,11 @@ class MatchScraper:
             None
         """
         for year in range(self.start_year, self.end_year + 1):
+            logging.info(f"Processing matches for year {year}")
             self._process_year(year, match_folder_path)
 
         for team, value in self.team_lineups.items():
+            logging.info(f"Saving lineups for {team}, {value}")
             team = team.replace(' ', '_').lower()
             df = pd.DataFrame(value)
             df['players'] = df['players'].apply(lambda x: ';'.join(x))
@@ -123,9 +129,9 @@ class MatchScraper:
             data['venue'] = match.group(2)
             data['date'] = datetime.strptime(match.group(3).split('(')[0].strip(), "%a, %d-%b-%Y %I:%M %p").strftime("%Y-%m-%d %H:%M")
             data['year'] = data['date'][:4]
-            data['attendance'] = match.group(4) if match.group(4) else "N/A"
+            # data['attendance'] = match.group(4) if match.group(4) else "N/A"
         else:
-            print(f"No match found: {data_list[1]}")
+            logging.info(f"No match found: {data_list[1]}")
 
         return data
     

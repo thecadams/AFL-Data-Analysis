@@ -38,6 +38,7 @@ class TeamScraper:
 
     def scrape_team_stats(self, start_year: int, end_year: int, folder_path: str) -> None:
         for year in range(start_year, end_year + 1):
+            logging.info(f"Processing team stats for year {year}")
             year_url = f'{self.base_url}{year}s.html'
             soup: BeautifulSoup = get_soup(year_url)
 

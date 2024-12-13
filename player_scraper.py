@@ -3,8 +3,12 @@ from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 import pandas as pd
 import concurrent.futures
+import logging
 
 from helper_functions import get_soup
+
+# Set up logging
+logging.basicConfig(level=logging.INFO)
 
 class PlayerScraper:
     base_url: str = 'https://afltables.com/afl/stats/'
@@ -36,6 +40,7 @@ class PlayerScraper:
         with concurrent.futures.ThreadPoolExecutor() as executor:
             futures = []
             for link in self.player_letter_links:
+                logging.info(f"Scraping player details from letter link {link}")
                 letter_soup: BeautifulSoup = get_soup(link)
                 table = letter_soup.select_one('table')
                 link_objs = table.select('a')
@@ -58,6 +63,7 @@ class PlayerScraper:
         Returns:
             None
         """
+        logging.info(f"Scraping player details from {player_link}")
         player_soup: BeautifulSoup = get_soup(self.base_url + player_link)
         self._write_player_details(
             player_personal_details=self._player_personal_details(player_soup),
