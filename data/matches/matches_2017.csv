@@ -200,7 +200,7 @@ round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,tea
 Qualifying Final,Adelaide Oval,2017-09-07 19:20,2017,Adelaide,3.0,4.0,8.0,7.0,12.0,8.0,12.0,12.0,Greater Western Sydney,1.0,4.0,1.0,5.0,5.0,7.0,6.0,12.0
 Qualifying Final,M.C.G.,2017-09-08 19:50,2017,Geelong,0.0,4.0,2.0,4.0,4.0,9.0,5.0,10.0,Richmond,2.0,4.0,3.0,7.0,6.0,10.0,13.0,13.0
 Elimination Final,S.C.G.,2017-09-09 16:20,2017,Sydney,3.0,2.0,13.0,5.0,17.0,5.0,19.0,7.0,Essendon,1.0,3.0,3.0,4.0,5.0,8.0,8.0,8.0
-Elimination Final,Adelaide Oval,2017-09-09 19:20,2017,,,,,,,,,,,,,,,,,,
+Elimination Final,Adelaide Oval,2017-09-09 19:20,2017,Port Adelaide,1.0,0.0,5.0,5.0,6.0,8.0,8.0,12.0,West Coast,4.0,2.0,7.0,4.0,7.0,5.0,9.0,6.0
 Semi Final,M.C.G.,2017-09-15 19:50,2017,Geelong,3.0,1.0,9.0,4.0,13.0,4.0,15.0,8.0,Sydney,2.0,2.0,3.0,4.0,4.0,9.0,5.0,9.0
 Semi Final,Sydney Showground,2017-09-16 19:25,2017,Greater Western Sydney,5.0,4.0,9.0,7.0,15.0,10.0,19.0,11.0,West Coast,3.0,0.0,4.0,2.0,5.0,2.0,9.0,4.0
 Preliminary Final,Adelaide Oval,2017-09-22 19:20,2017,Adelaide,6.0,3.0,11.0,7.0,14.0,10.0,21.0,10.0,Geelong,1.0,2.0,5.0,8.0,8.0,11.0,10.0,15.0

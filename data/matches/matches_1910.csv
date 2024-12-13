@@ -40,15 +40,15 @@ round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,tea
 8,M.C.G.,1910-06-18 15:00,1910,Melbourne,2,6,2,7,3,13,6,14,Fitzroy,0,4,2,13,6,14,8,18
 8,Junction Oval,1910-06-18 15:00,1910,St Kilda,1,4,1,5,4,5,4,5,South Melbourne,0,3,1,8,3,9,6,13
 9,Princes Park,1910-06-25 15:00,1910,Carlton,2,3,4,4,8,7,9,10,St Kilda,0,1,1,3,1,4,4,7
-9,Corio Oval,1910-06-25 15:00,1910,Geelong,3,3,5,5,5,7,10,9,Collingwood,1,2,2,6,5,10,6,11
 9,Punt Rd,1910-06-25 15:00,1910,Richmond,2,6,2,8,3,8,6,10,Essendon,1,1,6,4,7,8,9,14
 9,Brunswick St,1910-06-25 15:00,1910,Fitzroy,2,6,2,6,7,11,7,13,South Melbourne,3,0,6,2,6,3,11,6
 9,East Melbourne,1910-06-25 15:00,1910,University,1,5,3,5,6,6,7,7,Melbourne,1,0,3,5,3,7,4,11
+9,Corio Oval,1910-06-25 15:20,1910,Geelong,3,3,5,5,5,7,10,9,Collingwood,1,2,2,6,5,10,6,11
 10,Victoria Park,1910-07-02 15:00,1910,Collingwood,0,2,1,4,2,6,2,10,Carlton,2,6,4,9,5,13,6,15
 10,Brunswick St,1910-07-02 15:00,1910,Fitzroy,4,2,7,3,9,5,11,5,Essendon,3,4,6,4,8,8,12,17
-10,Corio Oval,1910-07-02 15:00,1910,Geelong,4,2,6,3,9,6,15,10,Melbourne,3,2,6,3,7,3,8,3
 10,Punt Rd,1910-07-02 15:00,1910,Richmond,5,3,7,5,9,6,10,7,South Melbourne,2,4,4,5,8,8,10,11
 10,East Melbourne,1910-07-02 15:00,1910,University,1,4,5,8,6,9,7,12,St Kilda,2,5,2,6,5,8,6,9
+10,Corio Oval,1910-07-02 15:15,1910,Geelong,4,2,6,3,9,6,15,10,Melbourne,3,2,6,3,7,3,8,3
 11,Princes Park,1910-07-09 15:00,1910,Carlton,6,1,10,6,11,8,16,11,Geelong,1,3,1,7,3,12,3,15
 11,Lake Oval,1910-07-09 15:00,1910,South Melbourne,5,2,7,8,9,14,13,17,Collingwood,1,4,2,5,4,5,4,9
 11,East Melbourne,1910-07-09 15:00,1910,Essendon,0,2,3,4,5,7,8,9,University,3,4,6,6,8,6,11,9
@@ -89,7 +89,7 @@ round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,tea
 18,East Melbourne,1910-09-03 15:00,1910,Essendon,4,4,4,6,6,10,6,14,Richmond,1,5,4,9,6,9,7,9
 18,Lake Oval,1910-09-03 15:00,1910,South Melbourne,1,2,3,5,5,8,7,10,Fitzroy,1,1,3,3,3,5,4,5
 18,M.C.G.,1910-09-03 15:00,1910,Melbourne,3,2,4,3,7,5,9,6,University,0,1,2,2,3,3,7,7
-Semi Final,M.C.G.,1910-09-10 14:30,1910,Collingwood,3,4,5,7,9,9,14,11,Essendon,1,1,1,3,2,6,5,7
-Semi Final,M.C.G.,1910-09-17 14:30,1910,Carlton,1,4,2,11,5,12,6,17,South Melbourne,2,1,5,2,7,5,10,5
+Semi Final,M.C.G.,1910-09-10 15:00,1910,Collingwood,3,4,5,7,9,9,14,11,Essendon,1,1,1,3,2,6,5,7
+Semi Final,M.C.G.,1910-09-17 15:00,1910,Carlton,1,4,2,11,5,12,6,17,South Melbourne,2,1,5,2,7,5,10,5
 Preliminary Final,M.C.G.,1910-09-24 14:30,1910,Collingwood,2,1,4,3,5,6,8,7,South Melbourne,1,2,3,4,4,7,6,8
-Grand Final,M.C.G.,1910-10-01 14:50,1910,Carlton,1,2,2,6,4,9,6,11,Collingwood,4,3,5,3,8,5,9,7
+Grand Final,M.C.G.,1910-10-01 15:00,1910,Carlton,1,2,2,6,4,9,6,11,Collingwood,4,3,5,3,8,5,9,7

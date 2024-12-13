@@ -62,8 +62,8 @@ round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,tea
 13,Princes Park,1914-07-11 15:00,1914,Carlton,2,2,4,6,8,11,11,14,South Melbourne,3,2,5,4,6,5,9,6
 13,Victoria Park,1914-07-11 15:00,1914,Collingwood,2,0,3,4,4,5,5,7,Fitzroy,1,4,1,10,2,15,3,16
 13,Punt Rd,1914-07-11 15:00,1914,Richmond,1,3,3,10,4,13,8,21,Essendon,2,4,2,4,4,7,5,7
-13,Corio Oval,1914-07-11 15:00,1914,Geelong,1,2,4,8,6,11,8,17,University,1,1,1,1,2,2,3,3
 13,M.C.G.,1914-07-11 15:00,1914,Melbourne,1,4,2,4,3,5,7,6,St Kilda,2,5,6,8,9,10,14,16
+13,Corio Oval,1914-07-11 15:06,1914,Geelong,1,2,4,8,6,11,8,17,University,1,1,1,1,2,2,3,3
 14,Brunswick St,1914-07-18 15:00,1914,Fitzroy,1,2,3,7,4,10,4,13,Carlton,3,0,4,0,6,1,7,4
 14,M.C.G.,1914-07-18 15:00,1914,University,0,1,2,1,2,2,3,5,Collingwood,4,4,8,7,12,9,15,13
 14,East Melbourne,1914-07-18 15:00,1914,Essendon,5,3,6,6,11,9,14,15,Melbourne,0,1,1,2,3,3,6,5
@@ -92,4 +92,4 @@ round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,tea
 Semi Final,M.C.G.,1914-09-05 14:30,1914,South Melbourne,1,7,1,9,2,12,5,14,Geelong,0,2,2,4,4,6,5,7
 Semi Final,M.C.G.,1914-09-12 14:30,1914,Carlton,3,3,5,3,8,6,9,8,Fitzroy,1,1,3,4,3,5,5,12
 Preliminary Final,M.C.G.,1914-09-19 14:30,1914,Carlton,0,1,3,5,3,6,3,6,South Melbourne,1,4,3,6,4,12,5,13
-Grand Final,M.C.G.,1914-09-26 14:50,1914,Carlton,2,3,5,8,5,8,6,9,South Melbourne,2,5,2,5,3,11,4,15
+Grand Final,M.C.G.,1914-09-26 15:00,1914,Carlton,2,3,5,8,5,8,6,9,South Melbourne,2,5,2,5,3,11,4,15

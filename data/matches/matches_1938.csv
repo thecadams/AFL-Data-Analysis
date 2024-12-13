@@ -65,7 +65,7 @@ round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,tea
 11,Junction Oval,1938-07-02 14:30,1938,St Kilda,5,2,7,2,9,4,11,8,Fitzroy,0,0,6,7,6,8,10,11
 11,Western Oval,1938-07-02 14:30,1938,Footscray,4,9,5,10,9,14,13,20,Richmond,1,0,6,2,6,2,7,4
 11,Arden St,1938-07-02 14:30,1938,North Melbourne,5,5,6,7,8,11,13,14,Hawthorn,0,0,5,2,8,3,12,6
-12,Junction Oval,1938-06-13 14:30,1938,St Kilda,1,1,5,8,7,8,15,13,Essendon,6,5,9,9,19,14,22,17
+12,Junction Oval,1938-06-13 10:30,1938,St Kilda,1,1,5,8,7,8,15,13,Essendon,6,5,9,9,19,14,22,17
 12,Princes Park,1938-07-09 14:30,1938,Carlton,4,3,7,7,9,8,12,12,Hawthorn,2,4,4,6,5,11,8,15
 12,Victoria Park,1938-07-09 14:30,1938,Collingwood,3,8,5,13,8,18,10,19,Fitzroy,2,2,4,6,8,8,10,13
 12,Western Oval,1938-07-09 14:30,1938,Footscray,4,4,13,10,17,14,19,19,South Melbourne,3,1,4,3,8,8,10,10
@@ -110,4 +110,4 @@ round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,tea
 Semi Final,M.C.G.,1938-09-03 14:30,1938,Footscray,3,2,6,11,8,14,10,16,Collingwood,6,1,9,1,16,5,18,9
 Semi Final,M.C.G.,1938-09-10 14:30,1938,Carlton,2,5,7,7,11,9,16,17,Geelong,2,3,5,10,6,18,10,21
 Preliminary Final,M.C.G.,1938-09-17 14:30,1938,Geelong,1,6,5,9,11,13,14,14,Collingwood,5,0,10,5,15,7,21,9
-Grand Final,M.C.G.,1938-09-24 14:50,1938,Carlton,3,2,7,6,11,9,15,10,Collingwood,3,1,4,4,8,5,13,7
+Grand Final,M.C.G.,1938-09-24 14:45,1938,Carlton,3,2,7,6,11,9,15,10,Collingwood,3,1,4,4,8,5,13,7
